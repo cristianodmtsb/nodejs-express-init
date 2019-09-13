@@ -1,3 +1,3 @@
-# BARBEARIA-backend
+# NODEJS EXPRESS INIT
 
-Criado com Node e Express!
+Iniciador simples de api rest com autenticação de usuário com node mais express. 
