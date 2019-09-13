@@ -1,0 +1,24 @@
+{
+  "name": "barberia-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/cristianodmtsb/baberia-backend.git",
+  "author": "Cristiano Castro <cristiano@gluck.com.br>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mysql2": "^1.7.0",
+    "nodemon": "^1.19.1",
+    "sequelize": "^5.18.1",
+    "yup": "^0.27.0"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^5.5.1",
+    "sucrase": "^3.10.1"
+  }
+}
